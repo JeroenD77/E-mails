@@ -1,0 +1,24 @@
+// Footer
+// ===================================
+.footer {
+	background:$secondary-color;
+	.container {
+		background:$secondary-color;
+	}
+	.wrapper-inner {
+		padding-top:32px;
+		padding-bottom:10px;
+	}
+	.social {
+		img {
+			max-width:40px;
+		}
+	}
+	.menu {
+		.menu-item {
+			a {
+				font-weight:700;
+			}
+		}
+	}
+}
